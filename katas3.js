@@ -1,8 +1,9 @@
 const sampleArray = [469, 755, 244, 245, 758, 450, 302, 17, 712, 71, 456, 21, 398, 339, 882, 848, 179, 535, 940, 472];
 
 function resultado(x) {
-    return console.log(x);
+    return x
 }
+
 function kata1() {
     let result = []
     for (let i = 1; i <= 25; i++) {
